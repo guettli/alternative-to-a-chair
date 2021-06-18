@@ -9,3 +9,4 @@ The best seating position is the position which is different from your previous 
 If I don't need a big monitor, then I like to sit like this:
 
 
+![](guettli-with-laptop-stand.jpg)
