@@ -17,3 +17,7 @@ That's why I marked the joint.
 
 ![](laptop-stand-with-marks.jpg)
 
+# Related
+
+* [Güttli working-out-loud](https://github.com/guettli/wol)
+
