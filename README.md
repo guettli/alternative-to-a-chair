@@ -10,3 +10,10 @@ If I don't need a big monitor, then I like to sit like this:
 
 
 ![](guettli-with-laptop-stand.jpg)
+
+Finding the right position where the left and the right leg are symetric can be time consuming.
+
+That's why I marked the joint.
+
+![](laptop-stand-with-marks.jpg)
+
